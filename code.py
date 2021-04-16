@@ -1,4 +1,4 @@
-i = int(input('Enter A Number : '))
+i = float(input('Enter A Number : '))
 def Fibonacci(n): 
     if n<0: 
         print("Incorrect input") 
